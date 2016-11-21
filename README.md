@@ -1,0 +1,2 @@
+# ActivityLifecycle
+实现Activity生命周期统一监听
